@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="com">
+      <map/>
+      <node name="tester">
+        <map>
+          <entry key="SLIDER_POS" value="50"/>
+          <entry key="BKGD_CLR" value="-16777216"/>
+          <entry key="FRGD_CLR" value="-16725023"/>
+          <entry key="SLIDER_VALUE" value="0"/>
+          <entry key="USER_INDEX" value="0"/>
+          <entry key="DIV_LOCATION" value="259"/>
+          <entry key="COM_PORT" value="COM5"/>
+          <entry key="QW_PORT" value="COM3"/>
+          <entry key="TESTING_SPEED" value="1700"/>
+          <entry key="LAST_DELAY" value="630"/>
+          <entry key="QW_PATH" value="C:\pictools\qw.exe"/>
+          <entry key="USERPROFILE" value="C:\Users\dmh\"/>
+          <entry key="USERS" value="DMH,TCM,SM,SDO,IGR,AHR,CKP,RJM,BTA,JMD,MAG"/>
+          <entry key="ADMINS" value="DMH,TCM,SM,SDO"/>
+          <entry key="PASSWORDS" value="D853,PINZ,1234,9897,5858,1964,3235,1991,1419,1114,2524"/>
+          <entry key="FIRMWARE_DIR" value="C:\Users\dmh\AppData\Local\TesterInterface\Resources\firmware\"/>
+          <entry key="WORKING_DIR" value="C:\Users\dmh\AppData\Local\TesterInterface\"/>
+          <entry key="RESOURCE_DIR" value="C:\Users\dmh\AppData\Local\TesterInterface\Resources\"/>
+        </map>
+      </node>
+    </node>
+  </root>
+</preferences>

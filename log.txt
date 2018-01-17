@@ -1,0 +1,210 @@
+Jan 15, 2018 8:36:20 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 8:36:24 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 8:36:41 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 8:41:18 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 8:41:22 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 8:41:39 AM java.util.logging.LogManager$RootLogger log
+INFO: Device: EAX2500
+Jan 15, 2018 8:42:01 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 8:46:52 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 8:48:53 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 8:48:57 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 8:49:04 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 8:49:08 AM java.util.logging.LogManager$RootLogger log
+INFO: Device: EAX2500
+Jan 15, 2018 8:49:20 AM java.util.logging.LogManager$RootLogger log
+INFO: Device: EAX2503
+Jan 15, 2018 8:54:16 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 8:54:34 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 8:54:44 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 9:04:22 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 9:04:28 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 9:07:24 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 9:07:27 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 9:07:30 AM java.util.logging.LogManager$RootLogger log
+INFO: Device: EAX2500
+Jan 15, 2018 9:07:57 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 9:11:26 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 9:11:29 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 9:11:31 AM java.util.logging.LogManager$RootLogger log
+INFO: Device: EAX2500
+Jan 15, 2018 9:12:09 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 9:14:45 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 9:14:49 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 9:14:52 AM java.util.logging.LogManager$RootLogger log
+INFO: Device: EAX2500
+Jan 15, 2018 9:14:55 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 9:46:30 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 9:46:44 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:08:23 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:09:00 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:09:33 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:09:36 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:10:07 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:10:18 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:10:30 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:10:50 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:10:58 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:11:01 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:11:22 AM java.util.logging.LogManager$RootLogger log
+INFO: User Logout Event
+Jan 15, 2018 10:11:29 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:11:33 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:11:42 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:11:48 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:11:57 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:12:33 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:12:35 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:12:40 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:16:34 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:16:40 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:16:54 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:25:34 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:25:38 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:29:06 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:29:10 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:29:13 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:30:19 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:30:21 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:30:24 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:31:06 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:31:09 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:31:11 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:32:52 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:32:54 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:32:56 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:33:20 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:34:37 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:34:43 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:34:46 AM java.util.logging.LogManager$RootLogger log
+INFO: User Logout Event
+Jan 15, 2018 10:34:50 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:35:19 AM java.util.logging.LogManager$RootLogger log
+INFO: User Logout Event
+Jan 15, 2018 10:35:24 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:35:26 AM java.util.logging.LogManager$RootLogger log
+INFO: User Logout Event
+Jan 15, 2018 10:35:31 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:35:51 AM java.util.logging.LogManager$RootLogger log
+INFO: User Logout Event
+Jan 15, 2018 10:35:55 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:35:59 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:36:03 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 10:36:44 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:37:36 AM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 10:37:44 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:38:22 AM java.util.logging.LogManager$RootLogger log
+INFO: User Logout Event
+Jan 15, 2018 10:38:25 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:38:50 AM java.util.logging.LogManager$RootLogger log
+INFO: User Logout Event
+Jan 15, 2018 10:38:51 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:39:07 AM java.util.logging.LogManager$RootLogger log
+INFO: Device: EAX2500
+Jan 15, 2018 10:39:13 AM java.util.logging.LogManager$RootLogger log
+INFO: User Logout Event
+Jan 15, 2018 10:39:21 AM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 10:39:54 AM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 3:08:55 PM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 3:08:58 PM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 3:20:27 PM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 3:20:31 PM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 3:22:45 PM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 3:22:47 PM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 3:23:07 PM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 3:23:10 PM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 3:31:37 PM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 3:31:55 PM java.util.logging.LogManager$RootLogger log
+INFO: User Login Event
+Jan 15, 2018 3:32:33 PM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
+Jan 15, 2018 3:34:19 PM java.util.logging.LogManager$RootLogger log
+INFO: Software starting.
+Jan 15, 2018 3:37:00 PM java.util.logging.LogManager$RootLogger log
+INFO: Software Closed
