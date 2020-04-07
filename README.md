@@ -1,3 +1,4 @@
 # TesterInterface_v2.0.3
-Interface for the EAX2500 Testing Fixture
-Build Date: 1.17.2018
+________________________
+Interface for the EAX500 Testing Fixture
+Build Date: 4.7.2020
