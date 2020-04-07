@@ -68,7 +68,7 @@ public class GUIFrame extends javax.swing.JFrame {
     //protected static String directory = null;
     //protected static String USERPROFILE = null;
     protected static String PROGDATA_DIR = getenv("PROGRAMDATA") + "\\Tester Interface\\";
-    private static String DEFAULT_WORKING_DIR = getenv("PROGRAMDATA") + "\\Tester Interface\\";
+    private static final String DEFAULT_WORKING_DIR = getenv("PROGRAMDATA") + "\\Tester Interface\\";
 
     /**
      * Default Constructor.
